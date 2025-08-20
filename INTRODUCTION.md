@@ -1,3 +1,5 @@
+🇺🇸 [English](./INTRODUCTION.md) | 🇧🇷 [Português](./pt-br/INTRODUCTION.md)
+
 # Introduction to Git
 
 ## What is Git?

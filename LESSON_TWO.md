@@ -1,3 +1,5 @@
+🇺🇸 [English](./LESSON_TWO.md) | 🇧🇷 [Português](./pt-br/LESSON_TWO.md)
+
 # Lesson 2: Working with Remote Repositories 🌐
 
 ## What You'll Learn 🎯

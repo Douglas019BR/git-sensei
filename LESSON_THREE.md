@@ -1,3 +1,5 @@
+🇺🇸 [English](./LESSON_THREE.md) | 🇧🇷 [Português](./pt-br/LESSON_THREE.md)
+
 # Lesson 3: Forking and Contributing to Projects 🍴
 
 ## What You'll Learn 🎯

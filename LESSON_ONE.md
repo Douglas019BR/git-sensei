@@ -1,3 +1,5 @@
+🇺🇸 [English](./LESSON_ONE.md) | 🇧🇷 [Português](./pt-br/LESSON_ONE.md)
+
 # Lesson 1: Introduction to Git and GitHub 👋
 
 ## What is Git? 🤷♂️

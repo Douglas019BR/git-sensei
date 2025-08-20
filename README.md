@@ -1,3 +1,5 @@
+🇺🇸 [English](./README.md) | 🇧🇷 [Português](./pt-br/README.md)
+
 # Git Sensei 🥋
 
 ### What is a README? 📄
