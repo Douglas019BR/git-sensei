@@ -2,6 +2,21 @@
 
 # Git Sensei 🥋
 
+### Why This Course is in English 🌍
+
+This course is primarily written in English to help you familiarize yourself with technical terms used in the global development community. While we provide a Portuguese version for accessibility, we strongly encourage you to read the English version whenever possible.
+
+**Why English matters for developers:**
+- **Global Communication**: The vast majority of programming documentation, forums, and resources are in English
+- **Industry Standard**: Most code comments, variable names, and technical discussions happen in English
+- **Career Opportunities**: English proficiency opens doors to international projects and collaborations
+- **Open Source**: Contributing to major open source projects requires English communication skills
+- **Technical Vocabulary**: Learning Git commands and concepts in English helps you understand documentation better
+
+Don't worry if your English isn't perfect—technical English is more straightforward than conversational English. The more you practice reading technical content in English, the more comfortable you'll become! 💪
+
+*Portuguese speakers: A versão em português está disponível na pasta [pt-br](./pt-br/README.md), mas recomendamos fortemente que pratiquem lendo em inglês sempre que possível.*
+
 ### What is a README? 📄
 
 A README file is the first thing people see when they visit a repository. It's like the front door to your project! 🏠
