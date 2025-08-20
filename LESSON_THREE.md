@@ -71,7 +71,7 @@ git push origin my-new-feature
 ## Practice Exercise 🏋️♀️
 1. Go to the [SendScriptWhatsApp](https://github.com/Douglas019BR/SendScriptWhatsApp) repository. This repo is a collection of scripts to send large messages on WhatsApp row by row.
 2. Fork the repository
-3. Add a simple file following the model of existing files (https://github.com/Douglas019BR/SendScriptWhatsApp/tree/main/scripts)
+3. Add a simple file following the model of [existing files](https://github.com/Douglas019BR/SendScriptWhatsApp/tree/main/scripts)
 4. Commit your file and create a pull request to the original repository
 5. Engage with any feedback you receive
 
