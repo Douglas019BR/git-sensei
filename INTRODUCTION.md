@@ -8,18 +8,18 @@ Git is a **Version Control System (VCS)**. That's a fancy way of saying it's a t
 
 ## A Little Bit of History
 
-Git was created by a very smart person named [Linus Torvalds](https://github.com/torvalds). He also created Linux, which is a popular (and the best in my opnion) operating system for computers. He needed a better way to keep track of all the changes that many different people were making to the Linux project. So, in 2005, he created Git!
+Git was created by a very smart person named [Linus Torvalds](https://github.com/torvalds). He also created Linux, which is a popular (and the best in my opinion) operating system for computers. He needed a better way to keep track of all the changes that many different people were making to the Linux project. So, in 2005, he created Git!
 
 ## Why is Git so Cool?
 
-*   **You can go back in time:** If you mess up, you can easily go back to a version that worked.
-*   **You can work with friends:** Git makes it easy for many people to work on the same project at the same time without messing up each other's work.
-*   **You can experiment:** You can create a separate copy of your project to try out new ideas without changing the original. This is like having a secret laboratory for your project!
-*   **You can see the changes in a historical order:** : You can see who makes a especific changes or how was the old implementation, how the first programmer of this project thinks the structure...
-*   **You can work in the same project in more than one computer** You can start you work in a computer A, save changes on git and continue in a computer B, it's valid too work in differents parts of the same project without break project.
+- **You can go back in time:** If you mess up, you can easily go back to a version that worked.
+- **You can work with friends:** Git makes it easy for many people to work on the same project at the same time without messing up each other's work.
+- **You can experiment:** You can create a separate copy of your project to try out new ideas without changing the original. This is like having a secret laboratory for your project!
+- **You can see the changes in historical order:** You can see who made specific changes or how the old implementation worked, how the first programmer of this project thought about the structure...
+- **You can work on the same project on more than one computer:** You can start your work on computer A, save changes with Git, and continue on computer B. It's also valid to work on different parts of the same project without breaking the project.
 
 ## What's Next?
 
 Now that you know what Git is and why it's so cool, let's learn some of the most important Git commands.
 
-*   [Git Commands](./COMMANDS.md)
+- [Git Commands](./COMMANDS.md)

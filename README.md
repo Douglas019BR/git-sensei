@@ -14,34 +14,32 @@ A README file is the first thing people see when they visit a repository. It's l
 
 A good README makes your project accessible and user-friendly. Even simple projects benefit from clear documentation that explains the purpose and usage. As you progress in your Git journey, you'll appreciate well-documented repositories and learn to create your own! 📝
 
-
 ## A Beginner-Friendly Course to Master Git and GitHub
 
 Welcome to Git Sensei, where you'll learn the art of version control from the ground up! 🌱
 
 ### Course Overview 📚
 
-# Theorical part : 
-1. **README.md**
-2. **INTRODUCTION.md :** [INTRODUCTION.md](./INTRODUCTION.md)
-3. **COMMANDS.md :**  [COMMANDS.md](./COMMANDS.md)
-4. **ADVANCED_CONCEPTS.md :** [ADVANCED_CONCEPTS.md](./ADVANCED_CONCEPTS.md)
-   
-After read this files you will ready for hands'on
+**Theoretical Foundation:**
+1. **README.md** - You are here!
+2. **[INTRODUCTION.md](./INTRODUCTION.md)** - What is Git and why use it?
+3. **[COMMANDS.md](./COMMANDS.md)** - Essential Git commands
+4. **[ADVANCED_CONCEPTS.md](./ADVANCED_CONCEPTS.md)** - Branching, merging, and rebasing
 
-This step-by-step course will take you from Git novice to confident collaborator:
+After reading these files, you'll be ready for hands-on practice!
 
-1. **Lesson One**: Introduction to Git and GitHub 👋
+**Practical Lessons:**
+1. **[Lesson One](./LESSON_ONE.md)**: Introduction to Git and GitHub 👋
    - Understanding version control
    - Basic Git commands
    - Your first commits
 
-2. **Lesson Two**: Working with Remote Repositories 🌐
+2. **[Lesson Two](./LESSON_TWO.md)**: Working with Remote Repositories 🌐
    - GitHub basics
    - Pushing and pulling changes
    - Working with branches
 
-3. **Lesson Three**: Forking and Contributing to Projects 🍴
+3. **[Lesson Three](./LESSON_THREE.md)**: Forking and Contributing to Projects 🍴
    - Creating forks
    - Making changes
    - Submitting pull requests
@@ -57,7 +55,7 @@ This step-by-step course will take you from Git novice to confident collaborator
 
 1. Make sure Git is installed on your computer
 2. Create a GitHub account if you don't have one
-3. Start with Lesson One and progress at your own pace
+3. Start with the [Introduction](./INTRODUCTION.md) and progress at your own pace
 
 ### Learning Philosophy 🧠
 
@@ -67,14 +65,14 @@ Git Sensei teaches through practice and repetition. Each lesson includes:
 - Practical exercises to reinforce concepts
 - Common issues and their solutions
 
-Remember, becoming a Git master takes practice. Don't worry about making mistakes—that's part of the learning process! The main idea to use Git it not came your errors or broke branches to production. With Git you can test implementations and approaches just in your machine or a especific environment without comprometing the whole project.🌟
+Remember, becoming a Git master takes practice. Don't worry about making mistakes—that's part of the learning process! The main idea of using Git is to prevent your errors from breaking branches in production. With Git, you can test implementations and approaches on your machine or in a specific environment without compromising the whole project. 🌟
 
 ### Need Help? 🆘
 
 - Check the official [Git documentation](https://git-scm.com/doc)
 - Use GitHub's [help resources](https://help.github.com)
+- Create an issue in this repository if you have questions
 
 Let's begin your journey to Git mastery! 🥋
 
-Start for the basic commands : 
-*   [INTRODUCTION.md](./INTRODUCTION.md)
+**Start here:** [Introduction to Git](./INTRODUCTION.md)

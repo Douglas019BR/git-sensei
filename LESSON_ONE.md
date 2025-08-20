@@ -1,6 +1,6 @@
 # Lesson 1: Introduction to Git and GitHub 👋
 
-## What is Git? 🤷‍♂️
+## What is Git? 🤷♂️
 Git is a distributed version control system that helps you track changes in your code. It allows multiple people to work on the same project without interfering with each other's work.
 
 ## Why Use Git? 🎯
@@ -66,7 +66,7 @@ git commit -m "My first commit message"
 git log
 ```
 
-## Practice Exercise 🏋️‍♀️
+## Practice Exercise 🏋️♀️
 1. Create a new repository
 2. Add a README.md file with a brief description
 3. Commit the file
@@ -76,11 +76,12 @@ git log
 
 Remember, Git is a powerful tool that gets easier with practice. Don't worry if it feels complicated at first—we'll build your skills step by step! 🌱
 
-# Problems
-In case of trouble use the [issue place](link to project issues) to make questions or report a problem, this is a good pratice and it's used for the most of repositories. It's too a good pratice do a search on issues before make a new issue, in case of someone have did the same or similar question that you have, you can't create a new issue, you can try the same solution or reply a comment in the existent issue.
+## Problems and Support 🆘
+
+In case of trouble, use the [issue section](https://github.com/git-sensei/git-sensei/issues) to ask questions or report a problem. This is a good practice and it's used by most repositories. It's also a good practice to search existing issues before creating a new one, in case someone has asked the same or similar question. You can try the same solution or reply with a comment in the existing issue.
 
 ## What's Next?
 
 Now that you know about the basic commands, let's continue exploring this fantastic world.
 
-*   [Second lesson](./LESSON_TWO.md)
+- [Second lesson](./LESSON_TWO.md)
