@@ -11,7 +11,7 @@ Forking creates a personal copy of someone else's project. It allows you to free
 
 ## Step-by-Step Guide 📝
 
-### 1. Fork a Repository ⑂
+### 1. Fork a Repository 🍴
 1. Go to the GitHub repository you want to contribute to
 2. Click the "Fork" button in the top-right corner of the page
 3. Select where to fork the repository (usually your personal account)
@@ -69,13 +69,27 @@ git push origin my-new-feature
 - Be responsive to feedback and be prepared to make additional changes
 
 ## Practice Exercise 🏋️♀️
-1. Find an open-source project that interests you
+1. Go to the [SendScriptWhatsApp](https://github.com/Douglas019BR/SendScriptWhatsApp) repository. This repo is a collection of scripts to send large messages on WhatsApp row by row.
 2. Fork the repository
-3. Add a simple file (like a new entry in a documentation directory)
-4. Create a pull request
+3. Add a simple file following the model of existing files (https://github.com/Douglas019BR/SendScriptWhatsApp/tree/main/scripts)
+4. Commit your file and create a pull request to the original repository
 5. Engage with any feedback you receive
 
 Remember, contributing to open-source projects is a great way to improve your skills and join the developer community! 🚀
+
+## Common Issues and Solutions 🔧
+
+### Fork Not Appearing
+- Refresh the page after forking
+- Check if the fork was created in your account
+
+### Pull Request Conflicts
+- Your branch might be behind the main branch
+- Pull the latest changes from the original repository before creating your PR
+
+### Permission Denied
+- Make sure you're pushing to your fork, not the original repository
+- Check your authentication credentials
 
 ## Congratulations! 🎉
 
@@ -86,6 +100,10 @@ You've completed the Git Sensei course! You now have the fundamental skills to:
 - Contribute to open-source projects
 
 Keep practicing these skills, and you'll become a true Git master! 🥋
+
+## Problems and Support 🆘
+
+In case of trouble, use the [issue section](https://github.com/Douglas019BR/git-sensei/issues) to ask questions or report a problem. This is a good practice and it's used by most repositories. It's also a good practice to search existing issues before creating a new one, in case someone has asked the same or similar question. You can try the same solution or reply with a comment in the existing issue.
 
 ## What's Next?
 
