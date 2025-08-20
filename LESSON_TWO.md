@@ -13,7 +13,6 @@ GitHub is a platform that hosts Git repositories online, making it easy to:
 - Share your projects with the world
 - Contribute to open-source software
 
-
 ## Creating a GitHub Account 📝
 1. Go to [github.com](https://github.com)
 2. Sign up for a free account
@@ -28,7 +27,7 @@ GitHub is a platform that hosts Git repositories online, making it easy to:
 6. Click "Create repository"
 
 ## Connecting Your Local Repository to GitHub 🔗
-Use the local reposiroty created on lesson one.
+Use the local repository created in lesson one.
 
 ```bash
 # Add a remote
@@ -49,7 +48,7 @@ git push
 ```
 
 ## Cloning an Existing Repository 📥
-explore github projects like you explore a social midia, search for themes, people, technologies, read the readme.md of projects, let your curios guide you. Choose a project to clone, anyone.
+Explore GitHub projects like you explore social media. Search for themes, people, technologies, read the README.md of projects, let your curiosity guide you. Choose a project to clone—any project.
 
 ```bash
 # Clone a repository from GitHub
@@ -81,7 +80,7 @@ git checkout -b feature-branch
 git push -u origin feature-branch
 ```
 
-## Practice Exercise 🏋️‍♀️
+## Practice Exercise 🏋️♀️
 1. Create a new repository on GitHub
 2. Connect your local repository from Lesson 1
 3. Push your code to GitHub
@@ -101,9 +100,8 @@ git push -u origin feature-branch
 
 Remember, GitHub makes collaboration possible and provides a backup of your code. It's an essential tool for modern developers! 🚀
 
-
 ## What's Next?
 
-Now that you know about the Github, let's learn about how to contributte to a project.
+Now that you know about GitHub, let's learn about how to contribute to a project.
 
-*   [Third lesson](./LESSON_THREE.md)
+- [Third lesson](./LESSON_THREE.md)

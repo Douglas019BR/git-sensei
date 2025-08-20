@@ -1,6 +1,6 @@
 # Advanced Git Concepts for Young Padawan
 
-Welcome, brave padawam, to the world of advanced Git! You've mastered the basic spells, and now you're ready to learn the secrets of the Git masters.
+Welcome, brave padawan, to the world of advanced Git! You've mastered the basic spells, and now you're ready to learn the secrets of the Git masters.
 
 ## Branching: Exploring Different Paths
 
@@ -10,9 +10,9 @@ A **branch** is like a copy of your project that you can change without affectin
 
 ### Why is Branching so Awesome?
 
-*   **It keeps your main project clean:** You can work on new features or fix bugs in a separate branch without cluttering up your main project.
-*   **You can work on multiple things at once:** You can have different branches for different tasks and switch between them whenever you want.
-*   **It's great for teamwork:** Each person can work on their own branch, and then you can merge all your work together at the end.
+- **It keeps your main project clean:** You can work on new features or fix bugs in a separate branch without cluttering up your main project.
+- **You can work on multiple things at once:** You can have different branches for different tasks and switch between them whenever you want.
+- **It's great for teamwork:** Each person can work on their own branch, and then you can merge all your work together at the end.
 
 ## Merging: Bringing Paths Together
 
@@ -34,8 +34,8 @@ When you **rebase**, you're moving a branch so that it looks like it was created
 
 ### When to Rebase (and When Not To)
 
-*   **Use it on your own private branches:** Rebasing is great for cleaning up your own work before you share it with others.
-*   **Don't use it on public branches:** If other people are using a branch, you should never rebase it. It can cause a lot of confusion and problems for everyone.
+- **Use it on your own private branches:** Rebasing is great for cleaning up your own work before you share it with others.
+- **Don't use it on public branches:** If other people are using a branch, you should never rebase it. It can cause a lot of confusion and problems for everyone.
 
 ## You're a Git Master!
 
@@ -43,6 +43,6 @@ Congratulations, you've learned some of the most advanced and powerful secrets o
 
 ## What's Next?
 
-Now that you know are a Git Master, let's learn about some more advanced concepts that will make you a Git master (in pratice)!
+Now that you are a Git Master, let's learn about some more advanced concepts that will make you a Git master in practice!
 
-*   [First lesson](./LESSON_ONE.md)
+- [First lesson](./LESSON_ONE.md)
