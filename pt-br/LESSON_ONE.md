@@ -80,7 +80,7 @@ Lembre-se, Git é uma ferramenta poderosa que fica mais fácil com a prática. N
 
 ## Problemas e Suporte 🆘
 
-Em caso de problemas, use a [seção de issues](https://github.com/git-sensei/git-sensei/issues) para fazer perguntas ou reportar um problema. Esta é uma boa prática e é usada pela maioria dos repositórios. Também é uma boa prática pesquisar issues existentes antes de criar uma nova, caso alguém tenha feito a mesma pergunta ou similar. Você pode tentar a mesma solução ou responder com um comentário na issue existente.
+Em caso de problemas, use a [seção de issues](https://github.com/Douglas019BR/git-sensei/issues) para fazer perguntas ou reportar um problema. Esta é uma boa prática e é usada pela maioria dos repositórios. Também é uma boa prática pesquisar issues existentes antes de criar uma nova, caso alguém tenha feito a mesma pergunta ou similar. Você pode tentar a mesma solução ou responder com um comentário na issue existente.
 
 ## O que Vem Depois?
 

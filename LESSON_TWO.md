@@ -102,6 +102,11 @@ git push -u origin feature-branch
 
 Remember, GitHub makes collaboration possible and provides a backup of your code. It's an essential tool for modern developers! 🚀
 
+## Problems and Support 🆘
+
+In case of trouble, use the [issue section](https://github.com/Douglas019BR/git-sensei/issues) to ask questions or report a problem. This is a good practice and it's used by most repositories. It's also a good practice to search existing issues before creating a new one, in case someone has asked the same or similar question. You can try the same solution or reply with a comment in the existing issue.
+
+
 ## What's Next?
 
 Now that you know about GitHub, let's learn about how to contribute to a project.

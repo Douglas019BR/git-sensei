@@ -102,6 +102,10 @@ git push -u origin feature-branch
 
 Lembre-se, GitHub torna a colaboração possível e fornece um backup do seu código. É uma ferramenta essencial para desenvolvedores modernos! 🚀
 
+## Problemas e Suporte 🆘
+
+Em caso de problemas, use a [seção de issues](https://github.com/Douglas019BR/git-sensei/issues) para fazer perguntas ou reportar um problema. Esta é uma boa prática e é usada pela maioria dos repositórios. Também é uma boa prática pesquisar issues existentes antes de criar uma nova, caso alguém tenha feito a mesma pergunta ou similar. Você pode tentar a mesma solução ou responder com um comentário na issue existente.
+
 ## O que Vem Depois?
 
 Agora que você conhece o GitHub, vamos aprender sobre como contribuir para um projeto.
