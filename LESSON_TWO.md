@@ -1,3 +1,5 @@
+🇺🇸 [English](./LESSON_TWO.md) | 🇧🇷 [Português](./pt-br/LESSON_TWO.md)
+
 # Lesson 2: Working with Remote Repositories 🌐
 
 ## What You'll Learn 🎯
@@ -80,7 +82,7 @@ git checkout -b feature-branch
 git push -u origin feature-branch
 ```
 
-## Practice Exercise 🏋️♀️
+## Practice Exercise 🏋️💻
 1. Create a new repository on GitHub
 2. Connect your local repository from Lesson 1
 3. Push your code to GitHub
@@ -99,6 +101,11 @@ git push -u origin feature-branch
 - Try pulling changes first with `git pull`
 
 Remember, GitHub makes collaboration possible and provides a backup of your code. It's an essential tool for modern developers! 🚀
+
+## Problems and Support 🆘
+
+In case of trouble, use the [issue section](https://github.com/Douglas019BR/git-sensei/issues) to ask questions or report a problem. This is a good practice and it's used by most repositories. It's also a good practice to search existing issues before creating a new one, in case someone has asked the same or similar question. You can try the same solution or reply with a comment in the existing issue.
+
 
 ## What's Next?
 

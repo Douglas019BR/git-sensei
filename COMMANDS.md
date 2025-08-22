@@ -1,3 +1,5 @@
+🇺🇸 [English](./COMMANDS.md) | 🇧🇷 [Português](./pt-br/COMMANDS.md)
+
 # Git Commands
 
 Think of these commands as magic spells you can use to control your project's history.

@@ -1,3 +1,5 @@
+🇺🇸 [English](./LESSON_ONE.md) | 🇧🇷 [Português](./pt-br/LESSON_ONE.md)
+
 # Lesson 1: Introduction to Git and GitHub 👋
 
 ## What is Git? 🤷♂️
@@ -15,7 +17,7 @@ Git is a distributed version control system that helps you track changes in your
 ### Installation 💻
 ```bash
 # For Ubuntu/Debian
-sudo apt-get install git
+sudo apt install git
 
 # For macOS (using Homebrew)
 brew install git
@@ -66,7 +68,7 @@ git commit -m "My first commit message"
 git log
 ```
 
-## Practice Exercise 🏋️♀️
+## Practice Exercise 🏋️💻
 1. Create a new repository
 2. Add a README.md file with a brief description
 3. Commit the file
@@ -78,7 +80,7 @@ Remember, Git is a powerful tool that gets easier with practice. Don't worry if 
 
 ## Problems and Support 🆘
 
-In case of trouble, use the [issue section](https://github.com/git-sensei/git-sensei/issues) to ask questions or report a problem. This is a good practice and it's used by most repositories. It's also a good practice to search existing issues before creating a new one, in case someone has asked the same or similar question. You can try the same solution or reply with a comment in the existing issue.
+In case of trouble, use the [issue section](https://github.com/Douglas019BR/git-sensei/issues) to ask questions or report a problem. This is a good practice and it's used by most repositories. It's also a good practice to search existing issues before creating a new one, in case someone has asked the same or similar question. You can try the same solution or reply with a comment in the existing issue.
 
 ## What's Next?
 

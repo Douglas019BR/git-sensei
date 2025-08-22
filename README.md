@@ -1,4 +1,21 @@
+🇺🇸 [English](./README.md) | 🇧🇷 [Português](./pt-br/README.md)
+
 # Git Sensei 🥋
+
+### Why This Course is in English 🌍
+
+This course is written in English to help you familiarize yourself with technical terms used in the global development community. While we provide a Portuguese version for accessibility, we strongly encourage you to read the English version whenever possible.
+
+**Why English matters for developers:**
+- **Global Communication**: The vast majority of programming documentation, forums, and resources are in English
+- **Industry Standard**: Most code comments, variable names, and technical discussions happen in English
+- **Career Opportunities**: English proficiency opens doors to international projects and collaborations
+- **Open Source**: Contributing to major open source projects requires English communication skills
+- **Technical Vocabulary**: Learning Git commands and concepts in English helps you understand documentation better
+
+Don't worry if your English isn't perfect. Technical English is more straightforward than conversational English. The more you practice reading technical content in English, the more comfortable you'll become! 💪
+
+*Portuguese speakers: A versão em português está disponível na pasta [pt-br](./pt-br/README.md), mas recomendamos fortemente que pratiquem lendo em inglês sempre que possível.*
 
 ### What is a README? 📄
 
@@ -65,13 +82,13 @@ Git Sensei teaches through practice and repetition. Each lesson includes:
 - Practical exercises to reinforce concepts
 - Common issues and their solutions
 
-Remember, becoming a Git master takes practice. Don't worry about making mistakes—that's part of the learning process! The main idea of using Git is to prevent your errors from breaking branches in production. With Git, you can test implementations and approaches on your machine or in a specific environment without compromising the whole project. 🌟
+Remember, becoming a Git master takes practice. Don't worry about making mistakes. That's part of the learning process! The main idea of using Git is to prevent your errors from breaking branches in production. With Git, you can test implementations and approaches on your machine or in a specific environment without compromising the whole project. 🌟
 
 ### Need Help? 🆘
 
 - Check the official [Git documentation](https://git-scm.com/doc)
 - Use GitHub's [help resources](https://help.github.com)
-- Create an issue in this repository if you have questions
+- Create an issue in this repository if you have questions and i will help you
 
 Let's begin your journey to Git mastery! 🥋
 

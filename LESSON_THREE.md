@@ -1,3 +1,5 @@
+🇺🇸 [English](./LESSON_THREE.md) | 🇧🇷 [Português](./pt-br/LESSON_THREE.md)
+
 # Lesson 3: Forking and Contributing to Projects 🍴
 
 ## What You'll Learn 🎯
@@ -68,7 +70,7 @@ git push origin my-new-feature
 - Follow the project's contribution guidelines
 - Be responsive to feedback and be prepared to make additional changes
 
-## Practice Exercise 🏋️♀️
+## Practice Exercise 🏋️💻
 1. Go to the [SendScriptWhatsApp](https://github.com/Douglas019BR/SendScriptWhatsApp) repository. This repo is a collection of scripts to send large messages on WhatsApp row by row.
 2. Fork the repository
 3. Add a simple file following the model of [existing files](https://github.com/Douglas019BR/SendScriptWhatsApp/tree/main/scripts)

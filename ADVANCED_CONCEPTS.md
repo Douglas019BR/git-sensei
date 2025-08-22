@@ -1,3 +1,5 @@
+🇺🇸 [English](./ADVANCED_CONCEPTS.md) | 🇧🇷 [Português](./pt-br/ADVANCED_CONCEPTS.md)
+
 # Advanced Git Concepts for Young Padawan
 
 Welcome, brave padawan, to the world of advanced Git! You've mastered the basic spells, and now you're ready to learn the secrets of the Git masters.
