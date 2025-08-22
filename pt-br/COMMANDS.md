@@ -1,4 +1,4 @@
-🇺🇸 [English](../COMMANDS.md) | 🇧🇷 [Português](./COMMANDS.md)
+🇧🇷 [Português](./COMMANDS.md) | 🇺🇸 [English](../COMMANDS.md)
 
 # Comandos do Git
 

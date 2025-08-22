@@ -82,7 +82,7 @@ git checkout -b feature-branch
 git push -u origin feature-branch
 ```
 
-## Practice Exercise 🏋️♀️
+## Practice Exercise 🏋️💻
 1. Create a new repository on GitHub
 2. Connect your local repository from Lesson 1
 3. Push your code to GitHub

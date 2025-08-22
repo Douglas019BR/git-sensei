@@ -1,3 +1,5 @@
+ 🇺🇸 [English](./CONTRIBUTING.md) |🇧🇷 [Português](./pt-br/CONTRIBUTING.md)
+
 # Contributing to Git Sensei 🥋
 
 This project is **open source** and we welcome all contributions! 🎉
@@ -9,7 +11,7 @@ Want to help make Git Sensei better? Here's how:
 ### What You Can Do
 - ✨ Add new lessons or improve existing ones
 - 🌍 Translate content to other languages
-- 📝 Fix typos or improve explanations
+- 📝 Improve explanations
 - 🐛 Report issues or suggest improvements
 
 ### Quick Steps

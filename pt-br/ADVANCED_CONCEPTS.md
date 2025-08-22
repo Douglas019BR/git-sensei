@@ -1,6 +1,6 @@
-🇺🇸 [English](../ADVANCED_CONCEPTS.md) | 🇧🇷 [Português](./ADVANCED_CONCEPTS.md)
+🇧🇷 [Português](./ADVANCED_CONCEPTS.md) | 🇺🇸 [English](../ADVANCED_CONCEPTS.md)
 
-# Conceitos Avançados do Git para Jovem Padawan
+# Conceitos Avançados do Git para um Jovem Padawan
 
 Bem-vindo, corajoso padawan, ao mundo do Git avançado! Você dominou os feitiços básicos, e agora está pronto para aprender os segredos dos mestres do Git.
 

@@ -17,7 +17,7 @@ Git is a distributed version control system that helps you track changes in your
 ### Installation 💻
 ```bash
 # For Ubuntu/Debian
-sudo apt-get install git
+sudo apt install git
 
 # For macOS (using Homebrew)
 brew install git
@@ -68,7 +68,7 @@ git commit -m "My first commit message"
 git log
 ```
 
-## Practice Exercise 🏋️♀️
+## Practice Exercise 🏋️💻
 1. Create a new repository
 2. Add a README.md file with a brief description
 3. Commit the file

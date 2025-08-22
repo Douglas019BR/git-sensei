@@ -1,10 +1,10 @@
-🇺🇸 [English](../README.md) | 🇧🇷 [Português](./README.md)
+🇧🇷 [Português](./README.md) | 🇺🇸 [English](../README.md)
 
 # Git Sensei 🥋
 
 ### Por que Este Curso Está em Inglês 🌍
 
-Este curso está principalmente escrito em inglês para ajudá-lo a se familiarizar com termos técnicos usados na comunidade global de desenvolvimento. Embora fornecemos uma versão em português para acessibilidade, encorajamos fortemente que você leia a versão em inglês sempre que possível.
+Este curso está escrito em inglês para ajudá-lo a se familiarizar com termos técnicos usados na comunidade global de desenvolvimento. Embora fornecemos uma versão em português para acessibilidade, encorajamos fortemente que você leia a versão em inglês sempre que possível.
 
 **Por que o inglês é importante para desenvolvedores:**
 - **Comunicação Global**: A grande maioria da documentação de programação, fóruns e recursos estão em inglês
@@ -13,7 +13,7 @@ Este curso está principalmente escrito em inglês para ajudá-lo a se familiari
 - **Código Aberto**: Contribuir para grandes projetos de código aberto requer habilidades de comunicação em inglês
 - **Vocabulário Técnico**: Aprender comandos e conceitos do Git em inglês ajuda você a entender melhor a documentação
 
-Não se preocupe se seu inglês não é perfeito—inglês técnico é mais direto que inglês conversacional. Quanto mais você praticar lendo conteúdo técnico em inglês, mais confortável você ficará! 💪
+Não se preocupe se seu inglês não é perfeito. Inglês técnico é mais direto que inglês conversacional. Quanto mais você praticar lendo conteúdo técnico em inglês, mais confortável você ficará! 💪
 
 *Falantes de português: Embora esta versão em português esteja disponível, recomendamos fortemente que pratiquem lendo em inglês sempre que possível. A versão em inglês está disponível [aqui](../README.md).*
 
@@ -82,13 +82,13 @@ Git Sensei ensina através da prática e repetição. Cada lição inclui:
 - Exercícios práticos para reforçar conceitos
 - Problemas comuns e suas soluções
 
-Lembre-se, tornar-se um mestre do Git requer prática. Não se preocupe em cometer erros—isso faz parte do processo de aprendizado! A ideia principal de usar Git é prevenir que seus erros quebrem branches em produção. Com Git, você pode testar implementações e abordagens na sua máquina ou em um ambiente específico sem comprometer todo o projeto. 🌟
+Lembre-se, tornar-se um mestre do Git requer prática. Não se preocupe em cometer erros, isso faz parte do processo de aprendizado! A ideia principal de usar Git é prevenir que seus erros quebrem branches em produção. Com Git, você pode testar implementações e abordagens na sua máquina ou em um ambiente específico sem comprometer todo o projeto. 🌟
 
 ### Precisa de Ajuda? 🆘
 
 - Consulte a [documentação oficial do Git](https://git-scm.com/doc)
 - Use os [recursos de ajuda do GitHub](https://help.github.com)
-- Crie uma issue neste repositório se tiver dúvidas
+- Crie uma issue neste repositório se tiver dúvidas e eu vou ajudar você
 
 Vamos começar sua jornada para dominar o Git! 🥋
 

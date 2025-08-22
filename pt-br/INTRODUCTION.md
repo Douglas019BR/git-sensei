@@ -1,4 +1,4 @@
-🇺🇸 [English](../INTRODUCTION.md) | 🇧🇷 [Português](./INTRODUCTION.md)
+🇧🇷 [Português](./INTRODUCTION.md) | 🇺🇸 [English](../INTRODUCTION.md)
 
 # Introdução ao Git
 

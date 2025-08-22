@@ -1,4 +1,4 @@
-🇺🇸 [English](../LESSON_TWO.md) | 🇧🇷 [Português](./LESSON_TWO.md)
+🇧🇷 [Português](./LESSON_TWO.md) | 🇺🇸 [English](../LESSON_TWO.md)
 
 # Lição 2: Trabalhando com Repositórios Remotos 🌐
 
@@ -82,7 +82,7 @@ git checkout -b feature-branch
 git push -u origin feature-branch
 ```
 
-## Exercício Prático 🏋️♀️
+## Exercício Prático 🏋️💻
 1. Crie um novo repositório no GitHub
 2. Conecte seu repositório local da Lição 1
 3. Envie seu código para o GitHub

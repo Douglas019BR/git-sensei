@@ -1,4 +1,4 @@
-🇺🇸 [English](../LESSON_ONE.md) | 🇧🇷 [Português](./LESSON_ONE.md)
+🇧🇷 [Português](./LESSON_ONE.md) | 🇺🇸 [English](../LESSON_ONE.md)
 
 # Lição 1: Introdução ao Git e GitHub 👋
 
@@ -17,7 +17,7 @@ Git é um sistema de controle de versão distribuído que ajuda você a rastrear
 ### Instalação 💻
 ```bash
 # Para Ubuntu/Debian
-sudo apt-get install git
+sudo apt install git
 
 # Para macOS (usando Homebrew)
 brew install git
@@ -68,7 +68,7 @@ git commit -m "Minha primeira mensagem de commit"
 git log
 ```
 
-## Exercício Prático 🏋️♀️
+## Exercício Prático 🏋️💻
 1. Crie um novo repositório
 2. Adicione um arquivo README.md com uma breve descrição
 3. Faça commit do arquivo
